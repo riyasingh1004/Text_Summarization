@@ -1,0 +1,9 @@
+Metallo-beta-lactamases have been identified so far in two Flavobacterium species, Chryseobacterium meningosepticum and Chryseobacterium indologenes .
+
+Amino acid sequence analysis.
+
+The purified beta-lactamase, CGB-1, with a pI value of 8.6 and a determined relative molecular mass of ca.
+
+C. indologenes expresses IND-like enzymes that share less than 45 and 15% amino acid identity with BlaB and GOB-like enzymes, respectively .
+
+Thus, in addition to the previously characterized clavulanic acid-inhibited extended-spectrum beta-lactamase CGA-1 of Ambler class A, C. gleum produces a very likely chromosome-borne class B beta-lactamase.
